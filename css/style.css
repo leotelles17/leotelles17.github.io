@@ -111,7 +111,7 @@ form input, form textarea {
 }
 
 form input:focus, form textarea:focus {
-    border-color: #f5f107;
+    border-color: #07f527;
     outline: none;
 }
 
