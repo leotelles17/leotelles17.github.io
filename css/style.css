@@ -60,7 +60,7 @@ nav a:hover {
 
 /* Seções */
 section {
-    background-color: white;
+    background-color: rgb(0, 0, 0);
     border-radius: 10px;
     padding: 25px 20px;
     margin-bottom: 30px;
